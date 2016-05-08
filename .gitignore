@@ -1,0 +1,6 @@
+gasky-admin/config/app.php
+gasky-admin/tmp/*
+gasky-admin/composer.lock
+gasky-admin/logs/*
+gasky-admin/vendor/*
+gasky-admin/bin/*

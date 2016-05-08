@@ -1,0 +1,26 @@
+.main-header > .logo img {
+  width: auto;
+  height: 31px;
+  margin-top: -5px;
+}
+
+.sidebar-menu > li.header {
+  text-transform: uppercase;
+}
+
+.btn > i.fa {
+  margin-right: 4px;
+}
+
+.img-circle.img-bg {
+  float: left;
+  width: 65px;
+  height: 65px;
+  background-color: #004f7d;
+  background-size: cover;
+  background-position: center center;
+}
+
+.list-padding ul > li {
+  padding: 10px 15px;
+}
