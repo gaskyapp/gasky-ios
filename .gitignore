@@ -4,3 +4,5 @@ gasky-admin/composer.lock
 gasky-admin/logs/*
 gasky-admin/vendor/*
 gasky-admin/bin/*
+Gasky/Pods/*
+Gasky/Podfile.lock
